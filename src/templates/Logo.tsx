@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { AppConfig } from '../utils/AppConfig';
 import NixonworksLogo from "./../../public/assets/images/logo.png"
 
 type ILogoProps = {
